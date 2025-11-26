@@ -8,3 +8,4 @@ function cargarUsuario() {
         })
     .catch(error => console.error("Error: ", error));
 }
+cargarUsuario();
